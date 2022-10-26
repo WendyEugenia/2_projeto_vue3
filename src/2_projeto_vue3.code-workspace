@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../1_instalacao_vue"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "2_projeto_vue3"
+	}
+}
